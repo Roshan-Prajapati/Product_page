@@ -14,6 +14,3 @@ function App() {
 export default App;
 
 
-// "https://m.media-amazon.com/images/I/71eUwDk8z+L._SX569_.jpg",
-//     "https://m.media-amazon.com/images/I/71mh8ZJZFuL._SX569_.jpg",
-//     "https://m.media-amazon.com/images/I/71vSLpVgZpL._SX569_.jpg",
