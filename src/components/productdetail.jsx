@@ -54,7 +54,7 @@ const ProductDetail = () => {
         <p className="product-description">
           This is a high-quality premium cotton T-shirt available in various sizes and colors.
         </p>
-        <div className="product-price">$29.99</div>
+        <div className="product-price">₹899</div>
 
         <div className="product-section">
           <label>Size:</label>
