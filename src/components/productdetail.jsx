@@ -122,6 +122,8 @@ const ProductDetail = () => {
               <p>{review.text}</p>
               <small>— {review.author}</small>
             </div>
+
+            
           ))}
         </div>
       </div>
